@@ -39,6 +39,7 @@ header {
 
 #column-2 {
   background: #d5d5d5;
+  width: 100%;
 }
 
 #column-3 {
@@ -69,16 +70,21 @@ footer {
 
   #column-2 {
     background-color: hotpink;
+    width: 50%;
   }
 
   #column-3 {
-    background-color: #ffffff;
+    background-color: #3b0404;
+    width: 100%;
   }
 
   footer {
     background-color: purple ;
   }
   
+  .col-3 {
+    width: 50%;
+  }
 }
 
 
@@ -94,14 +100,19 @@ footer {
 
   #column-2 {
     background-color: green;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: brown;
+    width: 33.3%;
   }
 
   footer {
     background-color:gold ;
   }
    
+  .col-3 {
+    width: 33.3%;
+  }
 }
